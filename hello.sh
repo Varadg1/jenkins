@@ -1,1 +1,1 @@
-hello welcome to jenkins
+echo "hello world"
